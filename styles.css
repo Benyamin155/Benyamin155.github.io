@@ -1,4 +1,62 @@
+/*
+font-family: 'Old Standard TT', serif;
+font-family: 'Arsenal', sans-serif;
+*/
+
 h1 {
     font-size: 36px;
     color: #33485e;
 }
+
+h5 {
+    font-size: 16px;
+}
+
+#old-standard {
+    font-family: 'Old Standard TT', serif;
+}
+
+#arsenal {
+    font-family: 'Arsenal', sans-serif;
+}
+
+#divs div {
+    height: 100px;
+    width: 100px;
+}
+
+#tea-green {
+    background-color: #c9e4ca;
+}
+
+#dark-sea-green {
+    background-color: #87BBA2;
+}
+
+#steel-teal {
+    background-color: #55828B;
+}
+
+#deep-space-sparkle {
+    background-color: #3B6064;
+}
+
+#charcoal {
+    background-color: #364958;
+}
+
+.stories h1 {
+    font-size: 20px;
+}
+
+/*
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav ul li {
+    display: inline-block;
+}
+
+*/
