@@ -139,13 +139,12 @@ p#blurb {
     margin: 10px;
 }
 
-
-
 .sections {
     display: flex;
 }
 
 .sections ul li {
+    font-family: 'Arsenal', sans-serif;
     color: #364958;
 }
 
