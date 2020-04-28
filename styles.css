@@ -37,10 +37,6 @@ p strong {
     font-family: 'Arsenal', sans-serif;
 }
 
-img#ridership {
-    max-width: 600px;
-}
-
 #check-it {
     margin-bottom: 5px;
 }
@@ -183,7 +179,7 @@ p#blurb {
     background-color: #55828B;
 }
 
-.footer .index{
+.footer.index{
     width: 100%;
 }
 
