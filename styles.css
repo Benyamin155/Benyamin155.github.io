@@ -183,6 +183,10 @@ p#blurb {
     background-color: #55828B;
 }
 
+.footer .index{
+    width: 100%;
+}
+
 .footer h2 {
     font-family: 'Old Standard TT', serif;
     color: #3B6064;
